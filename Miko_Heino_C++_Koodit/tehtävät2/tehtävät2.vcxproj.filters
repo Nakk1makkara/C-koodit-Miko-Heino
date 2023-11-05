@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="teht5.cpp">
+    <ClCompile Include="teht1.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht2.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht4.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
