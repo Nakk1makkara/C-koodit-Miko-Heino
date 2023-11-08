@@ -126,14 +126,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.1.cpp" />
-    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.2.cpp" />
-    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.3.cpp" />
-    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.4.cpp" />
-    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.5.cpp" />
-    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.6.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

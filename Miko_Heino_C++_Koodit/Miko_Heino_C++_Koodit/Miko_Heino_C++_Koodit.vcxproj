@@ -18,6 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="teht3.1.cpp" />
+    <ClCompile Include="teht3.2.cpp" />
+    <ClCompile Include="teht3.3.cpp" />
+    <ClCompile Include="teht3.4.cpp" />
+    <ClCompile Include="teht3.5.cpp" />
+    <ClCompile Include="teht3.6.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
