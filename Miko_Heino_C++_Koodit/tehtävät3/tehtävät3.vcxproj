@@ -18,6 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.1.cpp" />
+    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.2.cpp" />
+    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.3.cpp" />
+    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.4.cpp" />
+    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.5.cpp" />
+    <ClCompile Include="..\Miko_Heino_C++_Koodit\teht3.6.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

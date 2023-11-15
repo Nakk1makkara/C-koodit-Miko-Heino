@@ -15,23 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="teht3.2.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="teht4.1.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="teht3.1.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="teht4.2.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="teht3.3.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
-    <ClCompile Include="teht3.4.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
-    <ClCompile Include="teht3.5.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
-    <ClCompile Include="teht3.6.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="teht4.3.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
