@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="teht6.2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="teht6.3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="teht5.1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Teht_6.1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
