@@ -33,5 +33,8 @@
     <ClCompile Include="teht7.2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="tehtt7.3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
