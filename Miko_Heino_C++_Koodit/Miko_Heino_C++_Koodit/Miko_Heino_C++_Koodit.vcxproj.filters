@@ -27,5 +27,11 @@
     <ClCompile Include="Teht_6.1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="teht7.1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="teht7.2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

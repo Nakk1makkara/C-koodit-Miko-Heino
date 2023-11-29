@@ -22,6 +22,8 @@
     <ClCompile Include="teht5.1.cpp" />
     <ClCompile Include="teht6.2.cpp" />
     <ClCompile Include="teht6.3.cpp" />
+    <ClCompile Include="teht7.1.cpp" />
+    <ClCompile Include="teht7.2.cpp" />
     <ClCompile Include="Teht_6.1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
