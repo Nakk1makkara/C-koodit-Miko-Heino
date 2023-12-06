@@ -15,10 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="teht6.2.cpp">
+    <ClCompile Include="8.2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tehtt7.3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="teht9.1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="teht7.2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="teht7.1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="teht6.3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="teht6.2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="teht5.1.cpp">
@@ -27,13 +42,10 @@
     <ClCompile Include="Teht_6.1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="teht7.1.cpp">
+    <ClCompile Include="readme.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="teht7.2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="tehtt7.3.cpp">
+    <ClCompile Include="9.2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
